@@ -13,7 +13,7 @@ To upload a file to Swan
 
 ### How to Run Hackathons in Jupyter
 
-You can upload each notebook to Crane and run/edit it as you like. Make sure you set the kernel to `Python (tensorflow-env)` or to your custom kernel. Each hackathon has a homework at the bottom which you should submit to Canvas by the deadline indicated on the Canvas assignment.
+You can upload each notebook to Crane and run/edit it as you like. Make sure you set the kernel to `Python CSE479 (tensorflow-env)` or to your custom kernel. Each hackathon has a homework at the bottom which you should submit to Canvas by the deadline indicated on the Canvas assignment.
 
 Let us know by email, in office hours, or on Piazza if you run into any problems.
 
