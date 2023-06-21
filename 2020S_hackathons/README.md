@@ -11,14 +11,15 @@ To upload a file to Swan
 2. In the top drop-down, click the "Files" dropdown and select the "Home Directory" button
 3. In the upper right of the page showing the files, click the "Upload" model and use the dialog popup to upload the file.
 
-To use the environment outside of a Jupyter notebook, you can run:
-```bash
-module load anaconda
-conda activate tensorflow-env
-```
-
 ### How to Run Hackathons in Jupyter
 
 You can upload each notebook to Crane and run/edit it as you like. Make sure you set the kernel to `Python (tensorflow-env)` or to your custom kernel. Each hackathon has a homework at the bottom which you should submit to Canvas by the deadline indicated on the Canvas assignment.
 
 Let us know by email, in office hours, or on Piazza if you run into any problems.
+
+### Running Outside of Notebooks
+To use the environment outside of a Jupyter notebook, you can ssh into Swan and run:
+```bash
+module load anaconda
+conda activate tensorflow-env
+```
