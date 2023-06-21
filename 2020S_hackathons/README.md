@@ -7,7 +7,7 @@ Welcome! This page will host all the hackathons for the Summer 2023 term. This r
 You can upload the file by downloading from GitHub (click to open the file > click the "raw" button in the upper-right > right click and hit save)
 
 To upload a file to Swan
-1. Navigate to [swan.unl.edu](https://swan.unl.edu/)
+1. Navigate to [swan-ood.unl.edu](https://swan-ood.unl.edu/)
 2. In the top drop-down, click the "Files" dropdown and select the "Home Directory" button
 3. In the upper right of the page showing the files, click the "Upload" model and use the dialog popup to upload the file.
 
