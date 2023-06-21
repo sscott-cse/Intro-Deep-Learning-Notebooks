@@ -4,8 +4,6 @@ Welcome! This page will host all the hackathons for the Spring 2002 semester. Th
 
 ### How to Get Started
 
-To get started with these hackathons, you should run the `create_env.sh` file on Crane. It will create a GPU-enabled Anaconda environment called `tensorflow-env` and set it up as a Jupyter kernel.
-
 You can upload the file by downloading from GitHub (click to open the file > click the "raw" button in the upper-right > right click and hit save)
 
 To upload a file to Swan
