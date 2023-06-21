@@ -1,6 +1,6 @@
 ## Summer 2023 CSE 479/879 Hackathons
 
-Welcome! This page will host all the hackathons for the Spring 2002 semester. This readme will guide you through getting the Hackathons up and running. Please ask me if you've got any questions or suggestions, and I hope you have a great semester.
+Welcome! This page will host all the hackathons for the Summer 2023 term. This readme will guide you through getting the Hackathons up and running. Please ask me if you've got any questions or suggestions, and I hope you have a great semester.
 
 ### How to Get Started
 
