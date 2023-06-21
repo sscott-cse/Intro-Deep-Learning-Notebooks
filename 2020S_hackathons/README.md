@@ -8,11 +8,11 @@ To get started with these hackathons, you should run the `create_env.sh` file on
 
 You can upload the file by downloading from GitHub (click to open the file > click the "raw" button in the upper-right > right click and hit save)
 
-To upload a file to Crane
+To upload a file to Swan
 1. Navigate to [crane.unl.edu](https://crane.unl.edu/)
 2. In the top drop-down, click the "Files" dropdown and select the "Home Directory" button
 3. In the upper right of the page showing the files, click the "Upload" model and use the dialog popup to upload the file.
-4. Finally, open a shell on crane with SSH or on [crane.unl.edu](https://crane.unl.edu/)	 and run the file with `sh`.
+4. Finally, open a shell on swan with SSH or on [crane.unl.edu](https://crane.unl.edu/)	 and run the file with `sh`.
 
 To use the environment outside of a Jupyter notebook, you can run:
 ```bash
