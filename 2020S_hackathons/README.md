@@ -3,6 +3,7 @@
 Welcome! This page will host all the hackathons for the Summer 2023 term. This readme will guide you through getting the Hackathons up and running. Please ask me if you've got any questions or suggestions, and I hope you have a great semester.
 
 ### How to Get Started
+![Upload Button.png](https://github.com/sscott-cse/Intro-Deep-Learning-Notebooks/blob/d0d364b7072c87487e4014a021a81dfa89c4f81c/2020S_hackathons/Upload%20Button.png)
 
 You can upload the file by downloading from GitHub (click to open the file > click the "raw" button in the upper-right > right click and hit save)
 
