@@ -1,6 +1,6 @@
 # CSCE 479/879 Hackathon Repository 
 
-## Welcome to the Spring 2024 CSCE 479/879 Deep Learning Course
+## Welcome to the CSCE 479/879 Deep Learning Course
 
 
 Hackathons are code snippets designed to familiarize students with the concepts discussed in lectures. They provide students with necessary background and resources that come in handy while completing homeworks assignments and final project.
