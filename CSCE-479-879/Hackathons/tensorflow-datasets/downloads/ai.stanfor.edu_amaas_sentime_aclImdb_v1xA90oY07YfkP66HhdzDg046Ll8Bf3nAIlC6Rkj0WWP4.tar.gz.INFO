@@ -1,0 +1,1 @@
+{"dataset_names": ["imdb_reviews"], "original_fname": "aclImdb_v1.tar.gz", "url_info": {"checksum": "c40f74a18d3b61f90feba1e17730e0d38e8b97c05fde7008942e91923d1658fe", "filename": "aclImdb_v1.tar.gz", "size": 84125825}, "urls": ["http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz"]}
