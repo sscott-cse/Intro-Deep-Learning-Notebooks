@@ -7,4 +7,4 @@ Hackathons are code snippets designed to familiarize students with the concepts 
 
 Here is a roadmap for the hackathons you'll be completing this semster.
 
-![course-roadmap.png](https://github.com/sscott-cse/Intro-Deep-Learning-Notebooks/blob/master/Spring-2024-CSCE-479-879/course-images/hackathon-roadmap.png)
+![course-roadmap.png](https://github.com/sscott-cse/Intro-Deep-Learning-Notebooks/blob/master/CSCE-479-879/course-images/hackathon-roadmap.png)
