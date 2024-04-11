@@ -6,7 +6,7 @@ Welcome! This page will host all the hackathons for CSCE 479/879. This README wi
 
 These instructions are also summarized in [this video](https://github.com/sscott-cse/Intro-Deep-Learning-Notebooks/raw/master/CSCE-479-879/Get-started-with-hackathon-notebook.mp4).  Alternatively, you can utilize Google Colab with help from [this document](https://github.com/sscott-cse/Intro-Deep-Learning-Notebooks/blob/master/CSCE-479-879/using-colab.pdf).  (Note that if you use a resource other than Swan (or some other HCC machine), we cannot provide system-level technical support.)
 
-You can upload the file by downloading from GitHub (click to open the file > click the "raw" button in the upper-right > right click and hit save)
+Before uploading the file to Swan, first download it from GitHub (click to open the file > click the "download raw" button in the upper-right).
 
 To upload a file to Swan
 1. Navigate to [swan-ood.unl.edu](https://swan-ood.unl.edu/)
