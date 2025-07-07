@@ -8,3 +8,9 @@ Hackathons are code snippets designed to familiarize students with the concepts 
 Here is a roadmap for the hackathons you'll be completing this semster.
 
 ![course-roadmap.png](https://github.com/sscott-cse/Intro-Deep-Learning-Notebooks/blob/master/CSCE-479-879/course-images/hackathon-roadmap.png)
+
+Conda environment:
+/mnt/nrdstor/cse479/shared/envs
+
+Course Kernel:
+Python CSCE479 nrdstor
