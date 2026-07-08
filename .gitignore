@@ -1,2 +1,7 @@
 CSCE-479-879/.ipynb_checkpoints/
 CSCE-479-879/Hackathons/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+*.out
+*/.ipynb_checkpoints/*
+tensorflow-datasets/
