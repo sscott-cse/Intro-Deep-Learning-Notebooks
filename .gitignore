@@ -5,3 +5,6 @@ CSCE-479-879/Hackathons/.ipynb_checkpoints/
 *.out
 */.ipynb_checkpoints/*
 tensorflow-datasets/
+
+/work/scott/mrawool/Intro-Deep-Learning-Notebooks/CSCE-479-879/Hackathons/.ipynb_checkpoints
+/work/scott/mrawool/Intro-Deep-Learning-Notebooks/CSCE-479-879/Hackathons/tmp
